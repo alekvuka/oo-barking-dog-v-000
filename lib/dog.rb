@@ -3,18 +3,18 @@ class Dog
 
   def initialize(bark = "bark")
     @woof = bark
-  end 
+  end
 
   def name=(name)
-    @name = name 
-  end 
+    @name = name
+  end
 
-  def name 
-    @name 
-  end 
+  def name
+    @name
+  end
 
-  def bark 
+  def bark
     puts @woof
   end
-   
-end 
+
+end
