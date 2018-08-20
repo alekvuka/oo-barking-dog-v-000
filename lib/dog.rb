@@ -1,7 +1,7 @@
 # Your code goes here!
 class Dog
 
-  def initialize(bark = "bark")
+  def initialize(bark = "woof")
     @woof = bark
   end
 
